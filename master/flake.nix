@@ -9,7 +9,7 @@
   
   inputs.src-sequester-master.flake = false;
   inputs.src-sequester-master.owner = "fallingduck";
-  inputs.src-sequester-master.ref   = "refs/heads/master";
+  inputs.src-sequester-master.ref   = "master";
   inputs.src-sequester-master.repo  = "sequester";
   inputs.src-sequester-master.type  = "github";
   
